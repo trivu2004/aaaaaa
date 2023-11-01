@@ -16,6 +16,7 @@ public class Ccccc {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("ccccc.Ccccc.main()");
+        System.out.println("ccccc.Ccccc.main()");
     }
     
 }
